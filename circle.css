@@ -1,0 +1,451 @@
+h1 { 
+	color: white;
+	font-family: Tahoma, Verdana, Arial;
+	text-align: center;
+	margin-top: 20px;
+}
+
+p {
+	color: white;
+	font-family: Verdana, Arial;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#guava {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#guava:hover {
+	background-color: #ff5050;
+}
+
+#light-pink {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#light-pink:hover {
+	background-color: #ff66ff;
+}
+
+#musgo-green {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#musgo-green:hover {
+	background-color: #669900;
+}
+
+
+#super-pink {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#super-pink:hover {
+	background-color: #ff0066;
+}
+
+#super-purple {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#super-purple:hover {
+	background-color: #990099;
+}
+
+#turquoise {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#turquoise:hover {
+	background-color: #00ffff;
+}
+
+#super-blue {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#super-blue:hover {
+	background-color: #0000ff;
+}
+
+#oil-green {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#oil-green:hover {
+	background-color: #009999;
+}
+
+#bordeaux {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#bordeaux:hover {
+	background-color: #800000;
+}
+
+#orange {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#orange:hover {
+	background-color: #ff9900;
+}
+
+#lime {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#lime:hover {
+	background-color: #ccff66;
+}
+
+#super-red {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#super-red:hover {
+	background-color: #ff0000;
+}
+
+#light-yellow {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#light-yellow:hover {
+	background-color: #ffff66;
+}
+
+#leaf-green {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#leaf-green:hover {
+	background-color: #00cc66;
+}
+
+#old-pink {
+	width: 130px;
+	height: 130px;
+	background: black; 
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#old-pink:hover {
+	background-color: #cc6699;
+}
+
+#super-orange {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#super-orange:hover {
+	background-color: #ff6600;
+}
+
+#light-blue {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#light-blue:hover {
+	background-color: #99ccff;
+}
+
+#neon-green {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#neon-green:hover {
+	background-color: #66ff33;
+}
+
+#light-lila {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#light-lila:hover {
+	background-color: #cc99ff;
+}
+
+#deep-purple {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#deep-purple:hover {
+	background-color: #666699;
+}
+
+#sea-blue {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#sea-blue:hover {
+	background-color: #0033cc;
+}
+
+#flag-green {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#flag-green:hover {
+	background-color: #33cc33;
+}
+
+#dark-musgo {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#dark-musgo:hover {
+	background-color: #333300;
+}
+
+#girlie-pink {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#girlie-pink:hover {
+	background-color: #ff33cc;
+}
+
+#white {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#white:hover {
+	background-color: #ffffff;
+}
+
+#caramelo {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#caramelo:hover {
+	background-color: #cc9900;
+}
+
+#ocean-blue {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#ocean-blue:hover {
+	background-color: #000066;
+}
+
+#shock-pink {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#shock-pink:hover {
+	background-color: #ff3399;
+}
+
+#burn-green {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#burn-green:hover {
+	background-color: #99cc00;
+}
+
+#deep-red {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#deep-red:hover {
+	background-color: #990033;
+}
+
+#cristal-blue {
+	width: 130px;
+	height: 130px;
+	background: black;
+	border-radius: 70px;
+	float: right;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+#cristal-blue:hover {
+	background-color: #66ccff;
+}
+
+
+
