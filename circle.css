@@ -1,4 +1,8 @@
-h1 { 
+body {
+	background-color: black;
+}
+
+h1 {
 	color: white;
 	font-family: Tahoma, Verdana, Arial;
 	text-align: center;
@@ -212,7 +216,7 @@ p {
 #old-pink {
 	width: 130px;
 	height: 130px;
-	background: black; 
+	background: black;
 	border-radius: 70px;
 	float: right;
 	margin-left: 20px;
